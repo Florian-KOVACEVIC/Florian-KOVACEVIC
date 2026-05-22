@@ -19,5 +19,5 @@ Black-Scholes pricer with full Greeks computation, implied volatility solver, an
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/) <!-- Update with your LinkedIn URL -->
+- [LinkedIn](https://www.linkedin.com/in/florian-kovacevic-870530254/)
 - florian.kovacevic00@gmail.com
