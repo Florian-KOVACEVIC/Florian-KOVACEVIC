@@ -7,7 +7,7 @@ Passionate about financial markets and quantitative analysis. Building tools to 
 ### [Financial Dashboard](https://github.com/Florian-KOVACEVIC/financial-dashboard) — [Live Demo](https://financial-dashboard-florian-kovacevic.streamlit.app/)
 Multi-asset dashboard with technical analysis (RSI, MACD, Bollinger), risk metrics (VaR, Sharpe, Sortino), DCF valuation, DCA simulation, and macro indicators.
 
-### [Apex Markets](https://github.com/Florian-KOVACEVIC/compass-pro) — [Live Demo](https://compass-pro-florian-kovacevic.streamlit.app/)
+### [Apex Markets](https://github.com/Florian-KOVACEVIC/apex-markets) — [Live Demo](https://apex-markets-florian-kovacevic.streamlit.app/)
 Financial analysis app covering fundamental metrics (P/E, ROE, EV/EBITDA), statistical analysis, correlation matrices, and multi-asset comparison.
 
 ### [Options Lab](https://github.com/Florian-KOVACEVIC/options-lab) — [Live Demo](https://options-lab-florian-kovacevic.streamlit.app/)
